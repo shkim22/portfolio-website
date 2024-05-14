@@ -23,7 +23,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <Analytics>
+
       <html lang="en" className="!scroll-smooth">
         <body className={`${inter.className} bg-gray-50 text-gray-950 relative pt-28 sm:pt-36 dark:bg-gray-900 dark:text-gray-50 dark:text-opacity-90`}
         >
@@ -35,6 +35,7 @@ export default function RootLayout({
           <ActiveSectionContextProvider>
               <Header />
               {children}
+              </Analytics>
               <Footer />
               <Toaster position="top-right" />
               <ThemeSwitch />
@@ -42,6 +43,5 @@ export default function RootLayout({
         </ThemeContextProvider>
         </body>
       </html>
-    </Analytics>
   )
 }
