@@ -8,6 +8,7 @@ import wordanalyticsImg from "@/public/wordanalytics.png";
 import populationImg from "@/public/Population.gif"
 import instacartImg from "@/public/instacart.png"
 import pawtyImg from "@/public/pawty.png"
+import coffeeImg from "@/public/coffee.png"
 
 
 export const links = [
@@ -102,6 +103,14 @@ export const projectsData = [
     tags: ["R", "Python", "SQL"],
     imageUrl: populationImg,
     url: 'https://github.com/shkim22/greenhouse_study',
+  },
+  {
+    title: "Global Coffee Production Visualization",
+    description:
+      "Visualization about Coffee Production Around the World",
+    tags: ["Tableau"],
+    imageUrl: coffeeImg,
+    url: 'https://public.tableau.com/app/profile/stephen.kim5545/viz/Coffee_16799361895120/Dashboard1',
   },
   {
     title: "Pawty App",
