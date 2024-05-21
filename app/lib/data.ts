@@ -9,6 +9,7 @@ import populationImg from "@/public/Population.gif"
 import instacartImg from "@/public/instacart.png"
 import pawtyImg from "@/public/pawty.png"
 
+
 export const links = [
   {
     name: "Home",
@@ -25,6 +26,10 @@ export const links = [
   {
     name: "Skills",
     hash: "#skills",
+  },
+  {
+    name: "Additional",
+    hash: "#additional",
   },
   {
     name: "Experience",
@@ -62,7 +67,7 @@ export const experiencesData = [
     date: "2016 Summer",
   },
   {
-    title: "City of South Bend - Mayor Pete Buttigieg's Office",
+    title: "City of South Bend - Mayor Pete Buttigieg`s Office",
     location: "South Bend, IN",
     description:
       "As a Summer Intern in the Innovation team, I worked on data analytics projects to improve the South Bend's existing processes.",
@@ -88,6 +93,7 @@ export const projectsData = [
       "Leveraged A-Priori, FP-Growth, and ECLAT algorithms for common association rules.",
     tags: ["Python", "R", "SQL", "Jupyter Notebook"],
     imageUrl: instacartImg,
+    url: 'https://github.com/shkim22/instacart-market-basket/tree/main',
   },
   {
     title: "Do We Need More Babies to Save the Planet?",
@@ -95,6 +101,7 @@ export const projectsData = [
       "A Study on Greenhouse Gas Emissions & Population Growth using Regression Analysis.",
     tags: ["R", "Python", "SQL"],
     imageUrl: populationImg,
+    url: 'https://github.com/shkim22/greenhouse_study',
   },
   {
     title: "Pawty App",
@@ -102,6 +109,7 @@ export const projectsData = [
       "iOS app for Dog Training on the App Store. Had features such as scheduling, clicker and potty predictor.",
     tags: ["Flutter", "Firebase", "Dart"],
     imageUrl: pawtyImg,
+    url: 'https://www.linkedin.com/',
   },
 ] as const;
 
@@ -109,6 +117,7 @@ export const skillsData = [
   "Python",
   "SQL",
   "R",
+  "Azure AI",
   "Data Science",
   "Visualization",
   "Analytics",
