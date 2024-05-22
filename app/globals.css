@@ -9,3 +9,15 @@ html {
 .borderBlack {
     @apply border border-black/10;
 }
+
+.mb31 {
+    color: blue;
+}
+
+.mb32 {
+    color: blue;
+}
+
+.mb33 {
+    color: blue;
+}
