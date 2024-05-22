@@ -19,13 +19,12 @@ export default function About() {
             id="about"
         >
             <SectionHeading>About me</SectionHeading>
-            <p className='mb-3'>
-            I'm a Full-Stack Data Scientist with 7 years of experience in the Finance industry/Product Analytics space based in 🗽 NYC.  I have a strong business acumen, technical skills and leadership experience working with large Cross-Functional teams.
+            <p className='mb-3'>First gen immigrant born in Korea, raised in in Bolivia, based in 🗽 NYC.
             </p>
-            <p className='mb-3'>I completed my undergraduate studies at the University of Notre Dame and am pursuing my Masters of Science in Analytics from Georgia Tech (expected graduation in 2025).
+            <p className='mb-3'>Graduate of 🍀 Notre Dame and am pursuing my Masters of Science in Analytics from 🐝 Georgia Tech.
             </p>
             <p className='mb-3'>
-            Born in Korea and growing up in Bolivia, I cultivated a global mindset and work well with people from diverse backgrounds. Outside of work, I like to explore the city, find good restaurants, and stay active working out ⚽⛳️🎾.
+            Outside of work, I like to explore the city, find good restaurants, and stay active working out ⚽⛳️🎾.
             </p>
         </motion.section>  
     );
