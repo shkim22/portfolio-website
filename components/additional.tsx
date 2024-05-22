@@ -20,10 +20,9 @@ export default function Additional() {
         >
             <SectionHeading>Additional Works</SectionHeading>
             <li>
-                <p className='mb-3'> Microsoft Autism Hackathon 2024.</p>
-                <p className='mb-3'> Microsoft Autism Hackathon 2024.</p>
-                <p className='mb-3'> Microsoft Autism Hackathon 2024.</p>
-                <p className='mb-3'> Microsoft Autism Hackathon 2024.</p>
+                <ul className='mb-3'> Microsoft Autism Hackathon 2024.</ul>
+                <ul className='mb-3'> Analyzing Apple Health Data.</ul>
+                <ul className='mb-3'> Iceland Tourism Data Analysis</ul>
             </li>
 
         </motion.section>  
