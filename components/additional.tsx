@@ -7,7 +7,7 @@ import { useSectionInView } from '@/app/lib/hooks';
 
 
 export default function Additional() {
-
+    const { ref } = useSectionInView("Projects");
     return (
         <motion.section 
             ref= {ref}
