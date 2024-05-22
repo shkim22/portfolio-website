@@ -21,14 +21,14 @@ export default function Additional() {
             <SectionHeading>Additional Works</SectionHeading>
                 <p className='mb-3'> 
                     Microsoft Autism Hackathon 2024 - used OpenAI summarization API to prototype tool to save 30+ hours for healthcare providers.
-                    <a href="https://github.com/fsi-hack4autism/patient-onboarding-copilot"></a>
+                    <a href="https://github.com/fsi-hack4autism/patient-onboarding-copilot">here</a>
                 </p>
                 <p className='mb-3'> Analyzing Apple Health Data - as a fitness tracking fanatic, I use my own Apple Health data to see interesting patterns.
-                    <a href="https://medium.com/towards-data-science/towards-well-being-with-data-science-part-1-7f8035f73aa"></a>
-                    <a href="https://medium.com/towards-data-science/towards-well-being-with-data-science-part-2-bcaf1db96064"></a>
+                    <a href="https://medium.com/towards-data-science/towards-well-being-with-data-science-part-1-7f8035f73aa">here</a>
+                    <a href="https://medium.com/towards-data-science/towards-well-being-with-data-science-part-2-bcaf1db96064">here</a>
                 </p>
                 <p className='mb-3'> Iceland Tourism Data Analysis - used publicly available data to see the sudden popularity of tourism in Iceland in 2019.
-                    <a href="https://towardsdatascience.com/why-is-everyone-going-to-iceland-1f99083bee1a"></a>
+                    <a href="https://towardsdatascience.com/why-is-everyone-going-to-iceland-1f99083bee1a">here</a>
                 </p>
 
         </motion.section>  
