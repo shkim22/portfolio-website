@@ -21,6 +21,9 @@ export default function Additional() {
                 <p> 💻💡 Microsoft Autism Hackathon 2024 - used OpenAI summarization API to prototype tool to save 30+ hours for healthcare providers.
                     <a className='mb31' href="https://github.com/fsi-hack4autism/patient-onboarding-copilot">link</a>
                 </p>
+                <p > SummarAI: App to chat with your PDFs - built using GenAI, Python, Streamlit, Stripe, OAuth.
+                    <a className='mb33' href="https://summarai.streamlit.app/">link</a>
+                </p>
                 <p> 🏋️🔋 Analyzing Apple Health Data - as a fitness tracking fanatic, I use my own Apple Health data to see interesting patterns.
                     <a className='mb32' href="https://medium.com/towards-data-science/towards-well-being-with-data-science-part-1-7f8035f73aa">link</a>
                 </p>
