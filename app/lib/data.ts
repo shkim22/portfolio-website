@@ -64,7 +64,7 @@ export const experiencesData = [
     date: "2016 Summer",
   },
   {
-    title: "City of South Bend - Office of Mayor Pete Buttigieg",
+    title: "City of South Bend - Mayor Pete Buttigieg",
     location: "Summer Internship",
     description:
       "As a Summer Intern in the Innovation team, I worked on data analytics projects to improve the South Bend's existing processes.",
