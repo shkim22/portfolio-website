@@ -57,7 +57,7 @@ export const experiencesData = [
   },
   {
     title: "Credit Suisse",
-    location: "Summer Analyst + Technology Analyst",
+    location: "Summer Analyst -> Technology Analyst",
     description:
       "As a Summer Intern, I worked on mostly data analytics projects. I returned to CS full-time as a Technology Analyst where I gained expertise in Data Science in Product Control, Risk & Finance and Data Governance teams.",
     icon: React.createElement(LuGraduationCap),
