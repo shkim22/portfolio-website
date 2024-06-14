@@ -113,7 +113,7 @@ export const projectsData = [
     description:
       "PDF chat web application",
     tags: ["Python", "LLM", "ollama", "streamlit"],
-    imageUrl: pawtyImg,
+    imageUrl: docuchatai,
     url: 'https://www.docuchatai.streamlit.app/',
   },
 ] as const;
