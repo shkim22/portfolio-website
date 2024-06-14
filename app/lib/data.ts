@@ -51,7 +51,7 @@ export const experiencesData = [
     title: "Credit Suisse",
     location: "Data Scientist",
     description:
-      "Once I graduated the TA program, I worked at the Data and AI solutions team delivering bespoke solutions for clients ranging from the Trading Desk Quants, Internal Audit, and Wealth Management. A major highlight was my work on AI regulation to FINMA and other regulators.",
+      "Once I graduated the TA program, I honed my data science craft at the Data and AI solutions team delivering bespoke solutions for clients ranging from the Trading Desk Quants, Internal Audit, and Wealth Management. A major highlight was my work on AI regulation to FINMA and other regulators.",
     icon: React.createElement(CgWorkAlt),
     date: "2017 - 2023",
   },
