@@ -67,7 +67,7 @@ export const experiencesData = [
     title: "City of South Bend - Mayor Pete Buttigieg",
     location: "Summer Internship",
     description:
-      "As a Summer Intern in the Innovation team, I worked on data analytics projects to improve the South Bend's existing processes.",
+      "At the time, South Bend was a leading small city in technology and innovation, not limited to smart sewers with sensor data to anticipate floods. As a Summer Intern in the Innovation team, I worked on data analytics projects to improve the South Bend's existing processes.",
     icon: React.createElement(FaReact),
     date: "2015 Summer",
   },
@@ -75,7 +75,7 @@ export const experiencesData = [
     title: "Samsung Engineering",
     location: "Summer Internship",
     description:
-      "As a Summer Intern, I served as translator between Korean-English-Spanish for the Project Administrator of the Urea and Ammonia Fertilizer Plant in Bolivia. This project bid was at +$843mm, with a capacity of 2,100 tons/day.",
+      "The Samsung Ammonia and Urea Fertilizer Plant bid was +$843mm, with a capacity of 2,100 tons/day. As a Summer Intern, I served as translator between Korean-English-Spanish for the Project Administrator. ",
     icon: React.createElement(FaReact),
     date: "2013 Summer",
   },
