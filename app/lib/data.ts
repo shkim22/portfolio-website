@@ -71,19 +71,20 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2015 Summer",
   },
-  {
-    title: "Samsung Engineering",
-    location: "Summer Internship",
-    description:
-      "The Samsung Ammonia and Urea Fertilizer Plant bid was +$843mm, with a capacity of 2,100 tons/day. As a Summer Intern, I served as translator between Korean-English-Spanish for the Project Administrator. ",
-    icon: React.createElement(FaReact),
-    date: "2013 Summer",
-  },
+
 
 
 ] as const;
 
 export const projectsData = [
+  {
+    title: "DocuChat AI",
+    description:
+      "DocuChat AI: delve into a conversation with your favorite PDFs (books, manuals, research papers, scientific journals, etc)",
+    tags: ["Python", "genAI", "ollama", "streamlit", "stripe api", "OAuth"],
+    imageUrl: docuchatai,
+    url: 'https://docuchatai.streamlit.app',
+  },
   {
     title: "Instacart Market Basket Analysis",
     description:
@@ -108,14 +109,7 @@ export const projectsData = [
     imageUrl: coffeeImg,
     url: 'https://public.tableau.com/app/profile/stephen.kim5545/viz/Coffee_16799361895120/Dashboard1',
   },
-  {
-    title: "DocuChat AI",
-    description:
-      "DocuChat AI: delve into a conversation with your favorite PDFs (books, manuals, research papers, scientific journals, etc)",
-    tags: ["Python", "genAI", "ollama", "streamlit", "stripe api", "OAuth"],
-    imageUrl: docuchatai,
-    url: 'https://docuchatai.streamlit.app',
-  },
+
 ] as const;
 
 export const skillsData = [
