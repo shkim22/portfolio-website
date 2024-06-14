@@ -109,12 +109,12 @@ export const projectsData = [
     url: 'https://public.tableau.com/app/profile/stephen.kim5545/viz/Coffee_16799361895120/Dashboard1',
   },
   {
-    title: "Pawty App",
+    title: "DocuChat AI",
     description:
-      "iOS app for Dog Training on the App Store. Had features such as scheduling, clicker and potty predictor.",
-    tags: ["Flutter", "Firebase", "Dart"],
+      "PDF chat web application",
+    tags: ["Python", "LLM", "ollama", "streamlit"],
     imageUrl: pawtyImg,
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.docuchatai.streamlit.app/',
   },
 ] as const;
 
