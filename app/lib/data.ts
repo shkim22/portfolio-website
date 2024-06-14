@@ -9,7 +9,7 @@ import populationImg from "@/public/Population.gif"
 import instacartImg from "@/public/instacart.png"
 import pawtyImg from "@/public/pawty.png"
 import coffeeImg from "@/public/coffee.png"
-
+import docuchatai from "@/public/docuchatai.png"
 
 export const links = [
   {
