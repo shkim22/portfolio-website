@@ -87,7 +87,7 @@ export const projectsData = [
   {
     title: "Instacart Market Basket Analysis",
     description:
-      "Leveraged A-Priori, FP-Growth, and ECLAT algorithms for common association rules.",
+      "Discovered frequently purchased product pairings leveraging A-Priori, FP-Growth, and ECLAT algorithms for common association rules.",
     tags: ["Python", "R", "SQL", "Jupyter Notebook"],
     imageUrl: instacartImg,
     url: 'https://github.com/shkim22/instacart-market-basket/tree/main',
