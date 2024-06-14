@@ -67,8 +67,8 @@ export default function Intro() {
       >
         <span className="font-bold">Hi, I'm Stephen.</span> I'm a{" "}
         <span className="font-bold">full-stack data scientist</span> with{" "}
-        <span className="font-bold">7 years</span> of experience. I enjoy
-         <span className="italic"> doing analysis  & building products </span>in the intersection of Finance and Technology. My focus is{" "}
+        <span className="font-bold">+7 years</span> of experience. I enjoy
+         <span className="italic"> building products & analyzing data </span>in the intersection of Finance and Technology. My focus is{" "}
         <span className="underline">Python SQL and R</span>.
       </motion.h1>
 
