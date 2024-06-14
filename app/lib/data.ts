@@ -87,7 +87,7 @@ export const projectsData = [
   {
     title: "Instacart Market Basket Analysis",
     description:
-      "Discovered frequently purchased product pairings leveraging A-Priori, FP-Growth, and ECLAT algorithms for common association rules.",
+      "Discovered frequently purchased product pairings leveraging A-Priori, FP-Growth, and ECLAT algorithms for common association rules. 🍌+🥑+🍓 = 🫶",
     tags: ["Python", "R", "SQL", "Jupyter Notebook"],
     imageUrl: instacartImg,
     url: 'https://github.com/shkim22/instacart-market-basket/tree/main',
@@ -95,7 +95,7 @@ export const projectsData = [
   {
     title: "Do We Need More Babies to Save the Planet?",
     description:
-      "A Study on Greenhouse Gas Emissions & Population Growth using Regression Analysis.",
+      "A Study on Greenhouse Gas Emissions & Population Growth using Regression Analysis. Spoiler Alert: I love babies.",
     tags: ["R", "Python", "SQL"],
     imageUrl: populationImg,
     url: 'https://github.com/shkim22/greenhouse_study',
@@ -103,7 +103,7 @@ export const projectsData = [
   {
     title: "Global Coffee Production Visualization",
     description:
-      "Visualization about Coffee Production Around the World",
+      "Visualization about Coffee Production Around the World. Personal favorite is Bolivian Gesha.",
     tags: ["Tableau"],
     imageUrl: coffeeImg,
     url: 'https://public.tableau.com/app/profile/stephen.kim5545/viz/Coffee_16799361895120/Dashboard1',
