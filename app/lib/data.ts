@@ -95,7 +95,7 @@ export const projectsData = [
   {
     title: "Do We Need More Babies to Save the Planet?",
     description:
-      "A Study on Greenhouse Gas Emissions & Population Growth using Regression Analysis. Spoiler Alert: I love babies.",
+      "A Study on Greenhouse Gas Emissions & Population Growth using Regression Analysis. Spoiler Alert: I love babies 👶",
     tags: ["R", "Python", "SQL"],
     imageUrl: populationImg,
     url: 'https://github.com/shkim22/greenhouse_study',
