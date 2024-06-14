@@ -41,7 +41,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "UBS AG" ,
-    location: "New York, NY",
+    location: "Senior Data Scientist",
     description:
       "I'm now a full-stack Data Scientist working in the AI & Data Science team. My stack includes Python, R, SQL and Azure AI services.",
     icon: React.createElement(FaReact),
@@ -49,7 +49,7 @@ export const experiencesData = [
   },
   {
     title: "Credit Suisse Securities",
-    location: "New York, NY",
+    location: "Technology Analyist -> Data Scientist",
     description:
       "I re-joined CS as a Technology Analyst, which was a 2-year rotational program in which I gained experience working on Risk & Finance and the AI Solutions teams. Once I graduated the TA program, I worked at the Data and AI solutions team.",
     icon: React.createElement(CgWorkAlt),
@@ -57,15 +57,15 @@ export const experiencesData = [
   },
   {
     title: "Credit Suisse Securities",
-    location: "New York, NY",
+    location: "Summer Analyst",
     description:
       "As a Summer Intern, I worked on mostly data analytics projects. I received a return offer to start full-time at CS starting in 2017.",
     icon: React.createElement(LuGraduationCap),
     date: "2016 Summer",
   },
   {
-    title: "City of South Bend - Mayor Pete Buttigieg`s Office",
-    location: "South Bend, IN",
+    title: "City of South Bend - Office of Mayor Pete Buttigieg",
+    location: "Summer Internship",
     description:
       "As a Summer Intern in the Innovation team, I worked on data analytics projects to improve the South Bend's existing processes.",
     icon: React.createElement(FaReact),
@@ -73,7 +73,7 @@ export const experiencesData = [
   },
   {
     title: "Samsung Engineering",
-    location: "Santa Cruz, Bolivia",
+    location: "Summer Internship",
     description:
       "As a Summer Intern, I served as translator between Korean-English-Spanish for the Project Administrator of the Urea and Ammonia Fertilizer Plant in Bolivia. This project bid was at +$843mm, with a capacity of 2,100 tons/day.",
     icon: React.createElement(FaReact),
