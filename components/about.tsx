@@ -21,7 +21,7 @@ export default function About() {
             <SectionHeading>About me</SectionHeading>
             <p className='mb-3'>First gen immigrant born in Korea, raised in in Bolivia, based in 🗽 NYC.
             </p>
-            <p className='mb-3'>Graduate of 🍀 Notre Dame and am pursuing my Masters of Science in Analytics from 🐝 Georgia Tech.
+            <p className='mb-3'>Graduate of 🍀 University of Notre Dame and pursuing my Masters of Science in Analytics from 🐝 Georgia Tech.
             </p>
             <p className='mb-3'>
             Outside of work, I like to explore the city, find good restaurants, and stay active working out ⚽⛳️🎾.
