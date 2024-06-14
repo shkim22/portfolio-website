@@ -21,7 +21,7 @@ export default function Additional() {
                 <p> 💡 Microsoft Autism Hackathon 2024 - built prototype GenAI tool to save 30+ hours for healthcare providers using Azure's Cognitive Services.
                     <a className='mb31' href="https://github.com/fsi-hack4autism/patient-onboarding-copilot">link</a>
                 </p>
-                <p> 📈 Pawty App - iOS app for Dog Training on the App Store. Had features such as scheduling, clicker and potty predictor.
+                <p> 📈 Pawty App - iOS app for New Dog Parent community on the App Store. Created suite of features such as scheduling, clicker and potty predictor.
                     <a className='mb33' href="https://www.linkedin.com/in/stephenhgkim/'">link</a>
                 </p>
                 <p> 🏋️ Analyzing Apple Health Data - as a fitness tracking fanatic, I used my own Apple Health data to see interesting insights on how to improve my health.
