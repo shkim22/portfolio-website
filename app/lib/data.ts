@@ -111,8 +111,8 @@ export const projectsData = [
   {
     title: "DocuChat AI",
     description:
-      "PDF chat web application",
-    tags: ["Python", "LLM", "ollama", "streamlit"],
+      "DocuChat AI: App to chat with your PDFs",
+    tags: ["Python", "genAI", "ollama", "streamlit", "stripe api", "OAuth"],
     imageUrl: docuchatai,
     url: 'https://www.docuchatai.streamlit.app/',
   },
