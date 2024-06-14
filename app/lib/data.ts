@@ -48,18 +48,18 @@ export const experiencesData = [
     date: "2023 - present",
   },
   {
-    title: "Credit Suisse Securities",
-    location: "Technology Analyist -> Data Scientist",
+    title: "Credit Suisse",
+    location: "Data Scientist",
     description:
-      "I re-joined CS as a Technology Analyst, which was a 2-year rotational program in which I gained experience working on Risk & Finance and the AI Solutions teams. Once I graduated the TA program, I worked at the Data and AI solutions team.",
+      "Once I graduated the TA program, I worked at the Data and AI solutions team delivering bespoke solutions for clients ranging from the Trading Desk Quants, Internal Audit, and Wealth Management. A major highlight was my work on AI regulation to FINMA and other regulators.",
     icon: React.createElement(CgWorkAlt),
     date: "2017 - 2023",
   },
   {
-    title: "Credit Suisse Securities",
-    location: "Summer Analyst",
+    title: "Credit Suisse",
+    location: "Summer Analyst + Technology Analyst",
     description:
-      "As a Summer Intern, I worked on mostly data analytics projects. I received a return offer to start full-time at CS starting in 2017.",
+      "As a Summer Intern, I worked on mostly data analytics projects. I returned to CS full-time as a Technology Analyst where I gained expertise in Data Science in Product Control, Risk & Finance and Data Governance teams.",
     icon: React.createElement(LuGraduationCap),
     date: "2016 Summer",
   },
