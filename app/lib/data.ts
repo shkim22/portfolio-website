@@ -103,7 +103,7 @@ export const projectsData = [
   {
     title: "Global Coffee Production Visualization",
     description:
-      "Visualization about Coffee Production Around the World. Personal favorite is Bolivian Gesha. ☕",
+      "Visualization about Coffee Production Around the World. Personal favorite? ☕ Bolivian Gesha. ",
     tags: ["Tableau"],
     imageUrl: coffeeImg,
     url: 'https://public.tableau.com/app/profile/stephen.kim5545/viz/Coffee_16799361895120/Dashboard1',
